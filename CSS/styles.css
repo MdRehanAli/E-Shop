@@ -1,0 +1,23 @@
+.e-shop-bg-info {
+    background-color: #FEEAE9 !important;
+}
+
+.price-txt {
+    color: #FF136F;
+}
+
+.e-shop-btn-primary {
+    background-image: linear-gradient(#FF589B, #FF136F);
+}
+
+.e-shop-ct-bg-1 {
+    background-image: linear-gradient(#FF9C35, #FFD019);
+}
+
+.e-shop-ct-bg-2 {
+    background-image: linear-gradient(#FF589B, #FF136F);
+}
+
+.e-shop-ct-bg-3 {
+    background-image: linear-gradient(#4289FF, #3F07F8);
+}
